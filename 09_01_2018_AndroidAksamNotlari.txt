@@ -1,0 +1,53 @@
+
+
+JDK - Java Development Kit (Java Geliþtirme Kiti)
+IDE - Geliþtirme Ortamý (Netbeans IDE, Eclipse IDE, Intellij Idea(Android Studio) )
+
+
+
+Java'nýn Artýlarý:
+- Platform Baðýmsýz
+- - Windows,Linux, Mac fark etmeksizin her iþletim sisteminde kullanýlabilir.
+- Açýk Kaynak(Open Source)
+- Nesne Yönelimli Programlama (Object Oriented Programming)
+- Ücretsiz
+- Basit
+- Kod Güvenliði
+- Taþýnabilir
+- Çoklu Kullaným
+- Yüksek Performans
+
+
+Java'nýn Kullaným Alanlarý:
+Yazýlým
+- Java ME (Micro Edition)
+- Java SE (Standard Edition)
+- Java EE (Enterprise Edition)
+Donaným
+
+
+
+
+
+
+Web Service
+- Volley Kütüphanesi
+- JSON/XML Okuma/Parçalama
+- Restful API
+- SOAP
+- Firebase Database
+- HTTP Url Connection
+
+
+https://www.javatpoint.com/java-tutorial
+https://www.javatpoint.com/android-tutorial
+http://androidhive.info
+
+
+
+
+
+
+
+
+
