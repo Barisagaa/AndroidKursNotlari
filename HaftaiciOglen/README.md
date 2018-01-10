@@ -1,4 +1,6 @@
 10.01.2018
-- Java JDK, Eclipse IDE Kurulumları
+- Web Temellerine İlişkin Kavramlar (HTML,CSS,XML)
+- Java Yazılım Dilinin Artıları
+- Java Geliştirme Ortamının Kurulması (Java JDK, Eclipse IDE)
 - Java Yazım Kuralları
 - Merhaba Dünya
