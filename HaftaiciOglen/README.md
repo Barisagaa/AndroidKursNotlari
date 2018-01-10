@@ -2,5 +2,6 @@
 - Web Temellerine İlişkin Kavramlar (HTML,CSS,XML)
 - Java Yazılım Dilinin Artıları
 - Java Geliştirme Ortamının Kurulması (Java JDK, Eclipse IDE)
+- - Kuruluma ilişkin video: https://www.youtube.com/watch?v=qKKKaZg1j_k
 - Java Yazım Kuralları
 - Merhaba Dünya
