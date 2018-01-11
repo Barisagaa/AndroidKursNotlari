@@ -337,11 +337,13 @@
 - https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803?utm_source=webtekno
 - https://www.androidhive.info/2016/05/android-build-intro-slider-app/
 - http://www.truiton.com/2014/08/android-phonestatelistener-example/
+
 # Araştırma Notları (Design)
 - http://blog.iamsuleiman.com/material-design-tabs-with-android-design-support-library/
 - https://www.simplifiedcoding.net/android-navigation-drawer-example-using-fragments/
 - https://material.io/components/android/catalog/collapsing-toolbar-layout/
 - https://mzgreen.github.io/2015/02/28/How-to-hideshow-Toolbar-when-list-is-scrolling%28part2%29/
+- https://jsonplaceholder.typicode.com/
 # Gerekli
 - http://www.tcmb.gov.tr/kurlar/today.xml
 - https://www.tutorialspoint.com/android/android_xml_parsers.htm
