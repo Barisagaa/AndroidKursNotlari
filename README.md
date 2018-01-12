@@ -293,6 +293,12 @@
 - - [Şerif GÜNGÖR Blog](http://serifgungor.com/blogs/153-android-sharedpreference-kullanimi)
 
 
+
+# Okuyunuz
+- http://serifgungor.com/blogs/191-release-apk-olusturma-google-play-store-yuklemek
+
+
+
 - Basic dictionary example
 - Wifi Manager
 - Bluetooth Adapter
