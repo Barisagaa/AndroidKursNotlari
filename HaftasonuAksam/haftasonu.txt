@@ -1,0 +1,57 @@
+GitHub
+
+- Repository (Repo), Depolama Alanı
+- Yüklediğiniz çalışmalar, herkes tarafından görülüp indirilebilir
+
+
+
+Java ile Yazılım Geliştirme
+
+
+Linux
+- 
+
+
+Java'nın Avantajları
+
+- Bir kez yaz her yerde çalıştır - "Write once, run anywhere"
+- - Platform bağımsızlığı
+- - - Windows, Linux, Mac her işletim sisteminde çalıştırılabilir.
+- - Açık Kaynak (Open Source)
+- - - Daha fazla geliştiriciye ulaşılabilir.
+- - - Piyasadaki örnekleri arttırabiliriz.
+- - Güvenli bir dil (Kod Güvenliği)
+- - Kolay bir dil
+- - Nesnel Programlama (Object Oriented Programming / OOP)
+- - Ücretsizdir
+- - Taşınabilir
+- - Çoklu Kullanım
+- - Yüksek Performans
+
+Java'nın Kullanım Alanları:
+Yazılım
+- Java ME (Micro Edition)
+- Java SE (Standard Edition)
+- Java EE (Enterprise Edition)
+Donanım
+
+
+
+JDK - Java Development Kit (Java Geliştirme Kiti)
+IDE - Geliştirme Ortamı
+-- (Netbeans IDE, Eclipse IDE, Intellij Idea(Android Studio))
+SDK - Software Development Kit (Yazılım Geliştirme Kiti)
+-- Android SDK - Android Uygulamaları Geliştirebilmek için
+-- Gerekli Yazılım Bütünüdür.
+NDK - Native Development Kit (C/C++ gömülü olarak kullanılabilir)
+
+
+
+
+
+
+
+
+-
+- 
+- 
