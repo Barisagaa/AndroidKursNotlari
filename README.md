@@ -3,7 +3,8 @@
 
 # Öğrenci Projeleri
 - Google Play üzerinde yayınlanmış çalışmaları inceleyebilirsiniz.
-- [Google Play / Kerem Oflu (Çoklu Hesaplama)](https://play.google.com/store/apps/details?id=com.oflu.kerem.cokluhesaplama)(/images/ko_cokluhesaplama.jpg)
+- [Google Play / Kerem Oflu (Çoklu Hesaplama)](https://play.google.com/store/apps/details?id=com.oflu.kerem.cokluhesaplama)
+![Android](/images/ko_cokluhesaplama.jpg)
 - [Google Play / Halil Aslan Kılıç (Acil Durum Butonu)](https://play.google.com/store/apps/details?id=com.halilaslan.acildurumbutonu&hl=tr)
 ![Android](/images/adb_haslanklc.jpg)
 - [Google Play / Murat Tekin (PWords)](https://play.google.com/store/apps/details?id=de.murattekinlive.pwords&hl=tr)
