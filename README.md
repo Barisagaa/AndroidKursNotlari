@@ -3,6 +3,7 @@
 
 # Öğrenci Projeleri
 - Google Play üzerinde yayınlanmış çalışmaları inceleyebilirsiniz.
+- [Google Play / Ömer Faruk Çelik (İnternetsiz Yemek Tarifleri) - Haftaiçi Akşam Grubu](https://play.google.com/store/apps/details?id=com.omerfarukcelik.yemektarifleridunyasi&hl=tr)
 - [Google Play / Kerem Oflu (Çoklu Hesaplama) - Haftaiçi Öğlen Grubu](https://play.google.com/store/apps/details?id=com.oflu.kerem.cokluhesaplama)
 ![Android](/images/ko_cokluhesaplama.jpg)
 - [Google Play / Halil Aslan Kılıç (Acil Durum Butonu) - Haftaiçi Akşam Grubu](https://play.google.com/store/apps/details?id=com.halilaslan.acildurumbutonu&hl=tr)
