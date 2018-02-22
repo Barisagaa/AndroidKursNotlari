@@ -18,6 +18,8 @@
 - Haftaiçi Öğlen
 - - 20.02.2018 - Öğlen (Android'e giriş / Activity Lifecycle, Layoutlar, Componentler)
 - - - [YouTube] (https://www.youtube.com/watch?v=N7wsTWPh4R4)
+- - 21.02.2018 - Öğlen (Butona Tıklama, EditText, Hesap Makinesi)
+- - - [YouTube] (https://youtu.be/d2VpmlAXiqY)
 - - 30.10.2017 - Öğlen (Yemek Tarifleri App)
 - - - [YouTube] (https://www.youtube.com/watch?v=YdZgg9a8bR0&feature=youtu.be)
 - - 31.10.2017 - Öğlen (Yemek Tarifleri App)
