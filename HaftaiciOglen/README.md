@@ -6,7 +6,8 @@
 - Java Yazım Kuralları
 - Merhaba Dünya
 26.02.2018
-- Toast
-- AlertDialog
-- ImageView
-- LogCat
+- - Toast
+- - AlertDialog
+- - ImageView
+- - LogCat
+- - ArrayList
