@@ -5,3 +5,8 @@
 - - Kuruluma ilişkin video: https://www.youtube.com/watch?v=qKKKaZg1j_k
 - Java Yazım Kuralları
 - Merhaba Dünya
+26.02.2018
+- Toast
+- AlertDialog
+- ImageView
+- LogCat
