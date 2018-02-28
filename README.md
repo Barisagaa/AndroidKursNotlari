@@ -55,6 +55,8 @@
 - - 05.12.2017 - Öğlen (Firebase Database Kullanımı / Verileri Listeleme)
 - - - [YouTube] (https://youtu.be/Jk4NGye7mkc)
 - Haftaiçi Akşam
+- - 20.02.2018 - Akşam (Der1/Android)
+- - - [YouTube] (https://youtu.be/VYjn1oXykJ8)
 - - 30.10.2017 - Akşam (Günlük Harcamalar App)
 - - - [YouTube] (https://www.youtube.com/watch?v=74VcGWjv71U&feature=youtu.be)
 - - 31.10.2017 - Akşam (Günlük Harcamalar App)
