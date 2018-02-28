@@ -20,6 +20,8 @@
 - - - [YouTube] (https://www.youtube.com/watch?v=N7wsTWPh4R4)
 - - 21.02.2018 - Öğlen (Butona Tıklama, EditText, Hesap Makinesi)
 - - - [YouTube] (https://youtu.be/d2VpmlAXiqY)
+- - 26.02.2018 - Öğlen (ImageView,AlertDialog)
+- - - [YouTube] (https://youtu.be/j2Th7_ItiUo)
 - - 30.10.2017 - Öğlen (Yemek Tarifleri App)
 - - - [YouTube] (https://www.youtube.com/watch?v=YdZgg9a8bR0&feature=youtu.be)
 - - 31.10.2017 - Öğlen (Yemek Tarifleri App)
