@@ -102,6 +102,8 @@
 - - 13.12.2017 - Akşam (Android Volley PHP - Part 3)
 - - - [YouTube] (https://youtu.be/pSaceVpQYMQ)
 - Haftasonu
+- - 03.03.2018 - Akşam (Activity LifeCycle, Picasso, Button Click Event, addView)
+- - - [YouTube] (https://youtu.be/JMG-LtU7A9o)
 - - 04.11.2017 - Akşam (Custom ListView, XML Parser)
 - - - [YouTube] (https://www.youtube.com/watch?v=F1hkih3tCmY)
 - - 05.11.2017 - Akşam (Tab Fragment, JSON Parse)
