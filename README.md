@@ -65,6 +65,8 @@
 - - - [YouTube] (https://youtu.be/jw1ht9pU-QU)
 - - 27.02.2018 - Akşam (Ders4/Android - ZamanFarkı(Tarih) Hesaplama)
 - - - [YouTube] (https://youtu.be/WnRqMKTC00k)
+- - 06.03.2018 - Akşam (Intent,Implicit Activity)
+- - - [YouTube] (https://youtu.be/reBREIy7i8c)
 - - 30.10.2017 - Akşam (Günlük Harcamalar App)
 - - - [YouTube] (https://www.youtube.com/watch?v=74VcGWjv71U&feature=youtu.be)
 - - 31.10.2017 - Akşam (Günlük Harcamalar App)
