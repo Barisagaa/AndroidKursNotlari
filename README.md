@@ -24,6 +24,8 @@
 - - - [YouTube] (https://youtu.be/j2Th7_ItiUo)
 - - 27.02.2018 - Öğlen (Intent,Random,Listeners)
 - - - [YouTube] (https://youtu.be/8Nz6fdlcQvI)
+- - 05.03.2018 - Öğlen (Intent)
+- - - [YouTube] (https://www.youtube.com/watch?v=KPnmXTJ9sZk)
 - - 30.10.2017 - Öğlen (Yemek Tarifleri App)
 - - - [YouTube] (https://www.youtube.com/watch?v=YdZgg9a8bR0&feature=youtu.be)
 - - 31.10.2017 - Öğlen (Yemek Tarifleri App)
