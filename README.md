@@ -28,6 +28,8 @@
 - - - [YouTube] (https://www.youtube.com/watch?v=KPnmXTJ9sZk)
 - - 06.03.2018 - Öğlen (Implicit Activity)
 - - - [YouTube] (https://youtu.be/8o_qoHyA7Gs)
+- - 06.03.2018 - Öğlen (Explicit Activity)
+- - - [YouTube] (https://youtu.be/GRbU9M_qLmM)
 - - 30.10.2017 - Öğlen (Yemek Tarifleri App)
 - - - [YouTube] (https://www.youtube.com/watch?v=YdZgg9a8bR0&feature=youtu.be)
 - - 31.10.2017 - Öğlen (Yemek Tarifleri App)
