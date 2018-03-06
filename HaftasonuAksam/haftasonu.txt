@@ -51,7 +51,7 @@ NDK - Native Development Kit (C/C++ gömülü olarak kullanılabilir)
 
 
 
-
+ 	2018.02.24 - Zümre Toplantısı Nedeniyle Ders İptali
 -
 - 
 - 
