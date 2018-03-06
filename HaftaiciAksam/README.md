@@ -3,4 +3,4 @@
 - Java Yazılım Dilinin Artıları
 - Java JDK, Eclipse IDE Kurulumları
 - Kuruluma ilişkin video: https://www.youtube.com/watch?v=qKKKaZg1j_k
- 	2018.02.28 - İstirahat izni
+2018.02.28 - İstirahat izni
